@@ -27,8 +27,6 @@ w
 Gapi-gateway/src/main/java/com/igor/apigateway/filter/LoggingFilter.java,a/8/a86605dba51b88a60f85b64a677edc854feac514
 A
 ms-cambio/pom.xml,6/7/679a21241d66fdb0b45ac6e025dda08e818269e5
-u
-Ems-cambio/src/main/java/com/igor/mscambio/config/GetCambioConfig.java,d/1/d1c05ea2a8521cfb8df75c74a77b8b7d1245c228
 n
 >ms-book/src/main/java/com/igor/msbook/service/BookService.java,7/a/7a8ab261b064f6761097f9eb2308d48c0988c9c0
 l
@@ -45,17 +43,3 @@ Yms-cambio/src/main/java/com/igor/mscambio/adapters/in/controller/mapper/CambioM
 `ms-cambio/src/main/java/com/igor/mscambio/adapters/out/repository/mapper/CambioEntityMapper.java,6/6/66f28db2f6f783ace74746e0fa7357ff8e80a0b3
 Š
 Zms-cambio/src/main/java/com/igor/mscambio/adapters/out/repository/entity/CambioEntity.java,2/3/23998e644222098e14af354d6615a3eb17f27c42
-}
-Mms-cambio/src/main/java/com/igor/mscambio/application/core/domain/Cambio.java,8/4/849aea8914209ae43104a1649b077ec38a01d9a4
-ˆ
-Xms-cambio/src/main/java/com/igor/mscambio/application/core/usecase/GetCambioUseCase.java,1/7/17d6b45d3fa35fcc434f13679f7380bae088b9c7
-†
-Vms-cambio/src/main/java/com/igor/mscambio/application/ports/in/GetCambioInputPort.java,3/0/30b323d0f7892304191587ba52ac63bbcb4da35f
-ˆ
-Xms-cambio/src/main/java/com/igor/mscambio/application/ports/out/GetCambioOutputPort.java,d/6/d694946f1e6f4ce97c3c84101daf5a435294374c
-|
-Lms-cambio/src/main/java/com/igor/mscambio/adapters/out/GetCambioAdapter.java,8/8/8867a459a5be9f3dbd67d1ba7da4bcc2e0d8d81d
-Š
-Zms-cambio/src/main/java/com/igor/mscambio/adapters/out/repository/GetCambioRepository.java,2/7/2746d202fcef7470be869225093ff89e5ad996b4
-†
-Vms-cambio/src/main/java/com/igor/mscambio/adapters/in/controller/CambioController.java,f/4/f4ec7c40d478257df3dd9b0dc00fff2cae31a9e6
